@@ -1,1 +1,1 @@
-# Student-Deppresion-Data-Analaysis
+# Student-Depression-Data-Analaysis
